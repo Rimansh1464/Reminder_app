@@ -1,0 +1,40 @@
+import 'package:flutter/material.dart';
+
+List<Color> allColors = [
+  Color(0xff7eccff),
+  Color(0xffffa348),
+  Color(0xffffa5c4),
+  Color(0xff1eccc4),
+  Color(0xffffa4a3),
+  Color(0xff7eccff),
+  Color(0xffffa348),
+  Color(0xffffa5c4),
+  Color(0xff1eccc4),
+  Color(0xffffa4a3),
+  Color(0xff7eccff),
+  Color(0xffffa348),
+  Color(0xffffa5c4),
+  Color(0xff1eccc4),
+  Color(0xffffa4a3),
+];
+
+List<Color> alldarkColors = [
+  Color(0xff446f8b),
+  Color(0xff6a4f35),
+  Color(0xff764354),
+  Color(0xff417875),
+  Color(0xff663534),
+  Color(0xff3b5e74),
+  Color(0xff446f8b),
+  Color(0xff6a4f35),
+  Color(0xff764354),
+  Color(0xff417875),
+  Color(0xff663534),
+  Color(0xff3b5e74),
+  Color(0xff446f8b),
+  Color(0xff6a4f35),
+  Color(0xff764354),
+  Color(0xff417875),
+  Color(0xff663534),
+  Color(0xff3b5e74),
+];
